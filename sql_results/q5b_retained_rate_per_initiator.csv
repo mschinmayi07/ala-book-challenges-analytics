@@ -1,0 +1,17 @@
+initiator,title_rows,retained_rows,retained_pct,retained_pct_known
+Patron,2818,793,28.14,72.82
+Student,22,3,13.64,33.33
+Teacher,162,17,10.49,29.82
+"None Given",1056,95,9.00,25.00
+"Pressure Group",9689,623,6.43,15.74
+"Board Member",3312,213,6.43,9.49
+Other,440,28,6.36,14.97
+Parent,6365,395,6.21,19.20
+"Religious Organization",148,9,6.08,8.65
+Principal,175,6,3.43,4.88
+"Elected Official",642,20,3.12,50.00
+"Staff Member",315,8,2.54,3.19
+(missing),2768,65,2.35,49.24
+Administrator,7191,115,1.60,2.07
+"Library Worker",316,4,1.27,11.43
+Government,5224,11,0.21,0.25

@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Credentials and local settings (the loader reads MYSQL_* environment variables)
+.env
+*.env
+
+# Large or regenerable files kept out of the repo
+*.pbix
+data/clean/cases_clean_full.csv
+
+# Office and OS temp files
+~$*
+*.tmp
+.DS_Store
+Thumbs.db

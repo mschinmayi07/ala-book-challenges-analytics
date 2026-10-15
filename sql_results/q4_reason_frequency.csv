@@ -1,0 +1,244 @@
+year,reason,case_count
+2016,"Content Considered Sexually Explicit",50
+2016,"Offensive Language--used only in pre-2020 cases",35
+2016,Violence,29
+2016,"LGBTQIA+ Representation",23
+2016,Nudity,22
+2016,"Religious Viewpoint",18
+2016,Horror,17
+2016,"Descriptions of Drug/Alcohol Use",13
+2016,Racism,12
+2016,"Political Viewpoint",11
+2016,Profanity,11
+2016,"Anti-Family Content",7
+2016,"Occult/Satanic Content",6
+2016,"Sex Education Content",6
+2016,Inaccuracies,4
+2016,Suicide,4
+2016,"Low Literary Value",3
+2016,"Descriptions of Rape or Sexual Abuse",2
+2016,Abortion,1
+2016,Death,1
+2016,"Defiant/Anti-Authority Content",1
+2016,"Supernatural Content",1
+2017,"Content Considered Sexually Explicit",70
+2017,"LGBTQIA+ Representation",51
+2017,Profanity,41
+2017,Violence,29
+2017,Racism,21
+2017,Suicide,16
+2017,"Religious Viewpoint",14
+2017,"Sex Education Content",14
+2017,Nudity,12
+2017,"Offensive Language--used only in pre-2020 cases",12
+2017,"Descriptions of Drug/Alcohol Use",9
+2017,"Political Viewpoint",9
+2017,Horror,6
+2017,"Anti-Family Content",4
+2017,"Humorous Content",3
+2017,Inaccuracies,3
+2017,"Occult/Satanic Content",3
+2017,"Body Description or Function",2
+2017,"Defiant/Anti-Authority Content",2
+2017,"Descriptions of Rape or Sexual Abuse",2
+2017,Sexism,2
+2017,Abortion,1
+2017,"Insensitivity--used only in pre-2020 cases",1
+2017,"Low Literary Value",1
+2018,"Content Considered Sexually Explicit",58
+2018,"LGBTQIA+ Representation",48
+2018,Violence,30
+2018,Racism,27
+2018,Profanity,21
+2018,"Political Viewpoint",13
+2018,"Religious Viewpoint",11
+2018,"Descriptions of Drug/Alcohol Use",9
+2018,"Offensive Language--used only in pre-2020 cases",9
+2018,Suicide,7
+2018,Death,4
+2018,"Sex Education Content",4
+2018,"Descriptions of Rape or Sexual Abuse",3
+2018,Horror,2
+2018,Inaccuracies,2
+2018,"Occult/Satanic Content",2
+2018,Sexism,2
+2018,Abortion,1
+2018,"Body Description or Function",1
+2018,"Homophobic or Transphobic Content",1
+2018,Incest,1
+2018,"Low Literary Value",1
+2018,Nudity,1
+2019,"LGBTQIA+ Representation",62
+2019,"Content Considered Sexually Explicit",61
+2019,Violence,40
+2019,Profanity,24
+2019,Racism,18
+2019,"Religious Viewpoint",14
+2019,"Descriptions of Drug/Alcohol Use",10
+2019,Nudity,10
+2019,"Political Viewpoint",10
+2019,"Sex Education Content",10
+2019,"Descriptions of Rape or Sexual Abuse",7
+2019,"Occult/Satanic Content",6
+2019,"Offensive Language--used only in pre-2020 cases",5
+2019,Suicide,5
+2019,Inaccuracies,4
+2019,Abortion,3
+2019,"Body Description or Function",2
+2019,Death,1
+2019,"EDI Content",1
+2019,Grammar,1
+2019,"Humorous Content",1
+2019,"Insensitivity--used only in pre-2020 cases",1
+2020,"LGBTQIA+ Representation",28
+2020,"Content Considered Sexually Explicit",24
+2020,"Political Viewpoint",14
+2020,Profanity,14
+2020,Racism,12
+2020,"EDI Content",10
+2020,Violence,8
+2020,"Religious Viewpoint",5
+2020,"Descriptions of Drug/Alcohol Use",3
+2020,Nudity,3
+2020,"Descriptions of Rape or Sexual Abuse",2
+2020,Inaccuracies,2
+2020,"Occult/Satanic Content",2
+2020,"Sex Education Content",2
+2020,Suicide,2
+2020,Abortion,1
+2020,"Body Description or Function",1
+2020,Horror,1
+2020,"Humorous Content",1
+2021,"Content Considered Sexually Explicit",307
+2021,"LGBTQIA+ Representation",177
+2021,"EDI Content",106
+2021,Profanity,62
+2021,Racism,52
+2021,Violence,42
+2021,"Political Viewpoint",32
+2021,"Descriptions of Drug/Alcohol Use",31
+2021,"Sex Education Content",29
+2021,"Religious Viewpoint",19
+2021,"Unsafe or Harmful Content",18
+2021,Nudity,15
+2021,"Defiant/Anti-Authority Content",10
+2021,Inaccuracies,10
+2021,"Problematic Author",10
+2021,"Descriptions of Rape or Sexual Abuse",8
+2021,Horror,7
+2021,Suicide,7
+2021,"Body Description or Function",6
+2021,"Homophobic or Transphobic Content",6
+2021,Abortion,4
+2021,"Anti-Family Content",4
+2021,"Low Literary Value",2
+2021,Sexism,2
+2021,Death,1
+2021,Incest,1
+2021,"Occult/Satanic Content",1
+2022,"LGBTQIA+ Representation",580
+2022,"Content Considered Sexually Explicit",460
+2022,"EDI Content",170
+2022,"Sex Education Content",88
+2022,Profanity,80
+2022,Violence,53
+2022,"Descriptions of Rape or Sexual Abuse",48
+2022,"Political Viewpoint",47
+2022,Racism,39
+2022,Nudity,37
+2022,"Descriptions of Drug/Alcohol Use",27
+2022,Inaccuracies,27
+2022,"Unsafe or Harmful Content",18
+2022,"Religious Viewpoint",17
+2022,Suicide,14
+2022,"Homophobic or Transphobic Content",12
+2022,Horror,10
+2022,Abortion,8
+2022,Incest,8
+2022,"Occult/Satanic Content",8
+2022,"Defiant/Anti-Authority Content",6
+2022,Sexism,5
+2022,"Humorous Content",4
+2022,"Low Literary Value",4
+2022,"Body Description or Function",3
+2022,"Problematic Author",2
+2022,Grammar,1
+2023,"LGBTQIA+ Representation",438
+2023,"Content Considered Sexually Explicit",413
+2023,Profanity,84
+2023,"EDI Content",57
+2023,"Sex Education Content",54
+2023,Nudity,40
+2023,"Political Viewpoint",39
+2023,Violence,34
+2023,"Descriptions of Rape or Sexual Abuse",30
+2023,"Descriptions of Drug/Alcohol Use",29
+2023,Racism,27
+2023,"Religious Viewpoint",27
+2023,"Unsafe or Harmful Content",17
+2023,Inaccuracies,16
+2023,Suicide,14
+2023,Abortion,10
+2023,"Homophobic or Transphobic Content",7
+2023,"Defiant/Anti-Authority Content",6
+2023,Incest,6
+2023,Horror,4
+2023,"Low Literary Value",3
+2023,Sexism,3
+2023,"Anti-Family Content",1
+2023,"Occult/Satanic Content",1
+2023,"Problematic Author",1
+2024,"LGBTQIA+ Representation",277
+2024,"Content Considered Sexually Explicit",273
+2024,Profanity,71
+2024,Nudity,50
+2024,"EDI Content",47
+2024,"Political Viewpoint",32
+2024,Violence,30
+2024,"Religious Viewpoint",26
+2024,"Sex Education Content",24
+2024,"Descriptions of Drug/Alcohol Use",18
+2024,"Unsafe or Harmful Content",18
+2024,Inaccuracies,16
+2024,"Descriptions of Rape or Sexual Abuse",10
+2024,Racism,10
+2024,"Occult/Satanic Content",9
+2024,Suicide,9
+2024,"Homophobic or Transphobic Content",5
+2024,"Defiant/Anti-Authority Content",4
+2024,"Anti-Family Content",3
+2024,Death,3
+2024,Sexism,3
+2024,Horror,2
+2024,"Humorous Content",2
+2024,Incest,2
+2024,"Low Literary Value",2
+2024,Abortion,1
+2024,"Body Description or Function",1
+2024,"Problematic Author",1
+2025,"LGBTQIA+ Representation",205
+2025,"Content Considered Sexually Explicit",186
+2025,"EDI Content",49
+2025,"Political Viewpoint",47
+2025,"Religious Viewpoint",25
+2025,Profanity,23
+2025,Violence,19
+2025,"Descriptions of Drug/Alcohol Use",18
+2025,Nudity,17
+2025,Racism,17
+2025,"Descriptions of Rape or Sexual Abuse",15
+2025,Inaccuracies,13
+2025,"Unsafe or Harmful Content",12
+2025,"Occult/Satanic Content",10
+2025,"Sex Education Content",9
+2025,"Body Description or Function",6
+2025,"Defiant/Anti-Authority Content",6
+2025,"Problematic Author",5
+2025,Suicide,5
+2025,Abortion,3
+2025,Horror,3
+2025,"Humorous Content",3
+2025,"Anti-Family Content",2
+2025,"Homophobic or Transphobic Content",1
+2025,Incest,1
+2025,"Low Literary Value",1

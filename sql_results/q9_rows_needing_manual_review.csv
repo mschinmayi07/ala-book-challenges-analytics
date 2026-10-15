@@ -1,0 +1,62 @@
+match_method,bridge_id,case_id,raw_title_string,row_index,candidate_row_index,match_confidence
+fuzzy,367,16,"The Help by Tate Taylor",NULL,57,78.00
+fuzzy,36740,4640,"The Help by Tate Taylor",NULL,57,78.00
+fuzzy,41227,5295,"Where Do Babies Come From? by Film Ideas",NULL,9741,77.30
+fuzzy,958,20,"The Prince of Egypt by Brenda Chapman",NULL,9409,74.30
+fuzzy,34110,4330,"The Bridges of Madison County (Musical) by Jason Robert Brown",NULL,2193,72.60
+fuzzy,27614,3713,"The Young Elites by Marie Lu",NULL,1992,71.80
+fuzzy,2696,389,"Closer by Mike Nichols",NULL,4525,71.40
+fuzzy,4865,403,"Winter's Bone by Debra Granik",NULL,9581,70.00
+fuzzy,10276,506,"Winter's Bone by Debra Granik",NULL,9581,70.00
+fuzzy,24230,2952,"Portnoy's Complaint by Richard Benjamin",NULL,314,68.50
+fuzzy,28304,3866,"Where the Truth Lies by Atom Egoyan",NULL,2406,67.70
+fuzzy,36929,4648,"Love and Other Words by Christina Lauren",NULL,6177,67.50
+fuzzy,36765,4640,"Blackish by Kenya Barris",NULL,3028,66.70
+fuzzy,22182,2373,"Baby Steps by Li-Kong Hsu",NULL,9403,65.40
+fuzzy,3031,389,"Sofia Valdez, Future Prez by Andrea Beaty",NULL,8142,63.40
+fuzzy,7155,436,"Sofia Valdez, Future Prez by Andrea Beaty",NULL,8142,63.40
+fuzzy,12563,651,"Sofia Valdez, Future Prez by Andrea Beaty",NULL,8142,63.40
+fuzzy,24478,2952,"Sofia Valdez, Future Prez by Andrea Beaty",NULL,8142,63.40
+fuzzy,39606,5089,"True Benefits of Wearing Adult Diapers by Adrian Sherly",NULL,6613,63.40
+fuzzy,7423,436,"I Am Not Your Negro by Raoul Peck",NULL,906,62.70
+fuzzy,21598,2121,"Vera Drake by Mike Leigh",NULL,1132,62.70
+fuzzy,36766,4640,"Law & Order by Dick Wolf",NULL,2251,62.50
+fuzzy,35416,4481,"The Shape of Water by Guillermo del Toro",NULL,712,62.30
+fuzzy,18273,1417,"Dear White People by Justin Simien",NULL,1218,61.50
+fuzzy,25627,3160,"Mockingbird by Kathryn Erskine",NULL,1972,61.50
+fuzzy,18686,1561,"What to Expect When You're Expecting (Film) by Heidi Eisenberg Murkoff",NULL,8999,61.40
+fuzzy,12144,634,"Inside Mecca by Anisa Mehdi",NULL,1441,60.40
+fuzzy,19907,1699,"Strange World (Disney) by Don Hall",NULL,5391,60.30
+fuzzy,29534,3941,"Strange World (Disney) by Don Hall",NULL,5391,60.30
+fuzzy,765,20,"Civil War Minutes: Volume 1 by Mark Bussler",NULL,3906,60.00
+unmatched,12148,634,"Islam, Empire of Faith by Robert Gardner",NULL,NULL,59.00
+unmatched,1041,20,"Tragedy to Triumph by Fred Holmes",NULL,NULL,58.50
+unmatched,12130,634,"Decoding the Past: Secrets of the Koran by History Channel",NULL,NULL,58.40
+unmatched,19767,1640,"Lolita by Stanley Kubrick",NULL,NULL,58.30
+unmatched,24049,2876,"Lolita by Stanley Kubrick",NULL,NULL,58.30
+unmatched,35422,4481,"And Just Like That by Michael Patrick King",NULL,NULL,58.20
+unmatched,16388,1036,"The Ultimate Guys' Body Book: Not-So",NULL,NULL,57.90
+unmatched,22181,2373,"I Am Gitmo by Philippe Diaz",NULL,NULL,57.90
+unmatched,35535,4531,"13th by Ava DuVernay",NULL,NULL,57.10
+unmatched,6040,419,"The Courage to be Yourself: True Storie",NULL,NULL,56.30
+unmatched,38643,5010,"Scottsboro: An American Tragedy by Public Broadcasting System",NULL,NULL,56.00
+unmatched,26239,3368,"Bullied: A Student and a Case That Made History by Bill Brummel",NULL,NULL,55.80
+unmatched,27114,3627,"READING LIST - Read Woke Challenge by Cecily Lewis",NULL,NULL,55.20
+unmatched,792,20,"Deep South USA by Pilot Productions",NULL,NULL,55.10
+unmatched,7422,436,"The African Americans: Many Rivers to Cross [PBS series] by Sabin Streeter",NULL,NULL,54.80
+unmatched,40619,5172,"No Choirboy: Murder, Violence, and Teenagers on Death Row by Susan Kuklin",NULL,NULL,54.80
+unmatched,13915,764,"Batman the Brave and the Bold: Clobbered by Clayface by Sholly Fisch",NULL,NULL,54.70
+unmatched,13123,691,"Little Craig: The Yellow Bike [animated short] by Craig Robinson",NULL,NULL,54.40
+unmatched,22737,2437,"Spin the Bottle: Sex, Lies and Alcohol by Ronit Ridberg",NULL,NULL,54.20
+unmatched,34579,4330,"Elegies for Angels Punks and Raging Queens by Bill Russell",NULL,NULL,54.00
+unmatched,2526,369,"Too Much and Never Enough: How My Family Created the World's Most Dangerous Man by Mary Trump",NULL,NULL,53.90
+unmatched,16412,1043,"Let's Talk Puberty for Boys by Disney Educational Productions",NULL,NULL,53.80
+unmatched,16413,1043,"Let's Talk Puberty for Girls by Disney Educational Productions",NULL,NULL,53.30
+unmatched,24704,2988,"Male African Americans Motivations for Becoming Principals by Stephen Dwayne West",NULL,NULL,53.20
+unmatched,8366,459,"Precious (based on the novel 'Push' by Sapphire) by Sapphire",NULL,NULL,52.70
+unmatched,35625,4559,"Precious (based on the novel 'Push' by Sapphire) by Sapphire",NULL,NULL,52.70
+unmatched,26004,3350,"ONLINE RESOURCE - Prodigy by Prodigy Education",NULL,NULL,52.50
+unmatched,22151,2353,"Huevos Little Rooster's Egg-cellent Adventures by Zachary Gordon",NULL,NULL,52.40
+unmatched,19561,1567,"Strange t",NULL,NULL,51.60
+unmatched,39190,5032,"Burying White Privilege: Resurrecting a Badass Christianity by Miguel A. De La Torre",NULL,NULL,50.00
+unmatched,7424,436,"Ouch!: That Stereotype Hurts: Communicating Respectfully in a Diverse World by Joel Leskowitz",NULL,NULL,49.20

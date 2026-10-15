@@ -1,0 +1,110 @@
+initiator,outcome,title_rows
+(missing),unknown,2636
+(missing),retained,65
+(missing),withdrawn_removed,55
+(missing),relocated,5
+(missing),restricted,3
+(missing),defaced,1
+(missing),destroyed,1
+(missing),bowdlerized,1
+(missing),removed_required,1
+Administrator,withdrawn_removed,4203
+Administrator,unknown,1636
+Administrator,restricted,587
+Administrator,relocated,450
+Administrator,removed_required,194
+Administrator,retained,115
+Administrator,bowdlerized,5
+Administrator,stolen,1
+"Board Member",withdrawn_removed,1717
+"Board Member",unknown,1067
+"Board Member",retained,213
+"Board Member",restricted,177
+"Board Member",relocated,115
+"Board Member",removed_required,11
+"Board Member",bowdlerized,10
+"Board Member",stolen,1
+"Board Member",destroyed,1
+"Elected Official",unknown,602
+"Elected Official",retained,20
+"Elected Official",withdrawn_removed,15
+"Elected Official",relocated,5
+Government,withdrawn_removed,3637
+Government,restricted,766
+Government,unknown,748
+Government,relocated,60
+Government,retained,11
+Government,stolen,2
+"Library Worker",unknown,281
+"Library Worker",withdrawn_removed,19
+"Library Worker",restricted,7
+"Library Worker",relocated,4
+"Library Worker",retained,4
+"Library Worker",bowdlerized,1
+"None Given",unknown,676
+"None Given",withdrawn_removed,139
+"None Given",restricted,101
+"None Given",retained,95
+"None Given",relocated,31
+"None Given",removed_required,6
+"None Given",defaced,4
+"None Given",stolen,3
+"None Given",destroyed,1
+Other,unknown,253
+Other,relocated,110
+Other,withdrawn_removed,36
+Other,retained,28
+Other,restricted,12
+Other,removed_required,1
+Parent,unknown,4308
+Parent,withdrawn_removed,1383
+Parent,retained,395
+Parent,restricted,98
+Parent,removed_required,91
+Parent,relocated,82
+Parent,stolen,6
+Parent,destroyed,2
+Patron,unknown,1729
+Patron,retained,793
+Patron,relocated,101
+Patron,withdrawn_removed,72
+Patron,restricted,52
+Patron,defaced,37
+Patron,destroyed,18
+Patron,stolen,14
+Patron,bowdlerized,2
+"Pressure Group",unknown,5732
+"Pressure Group",withdrawn_removed,2574
+"Pressure Group",retained,623
+"Pressure Group",restricted,512
+"Pressure Group",relocated,231
+"Pressure Group",removed_required,16
+"Pressure Group",stolen,1
+Principal,restricted,58
+Principal,withdrawn_removed,56
+Principal,unknown,52
+Principal,retained,6
+Principal,removed_required,3
+"Religious Organization",withdrawn_removed,70
+"Religious Organization",unknown,44
+"Religious Organization",stolen,16
+"Religious Organization",retained,9
+"Religious Organization",destroyed,4
+"Religious Organization",relocated,3
+"Religious Organization",removed_required,1
+"Religious Organization",restricted,1
+"Staff Member",withdrawn_removed,208
+"Staff Member",unknown,64
+"Staff Member",relocated,33
+"Staff Member",retained,8
+"Staff Member",destroyed,2
+Student,unknown,13
+Student,withdrawn_removed,4
+Student,retained,3
+Student,removed_required,2
+Teacher,unknown,105
+Teacher,withdrawn_removed,30
+Teacher,retained,17
+Teacher,removed_required,6
+Teacher,restricted,3
+Teacher,relocated,1

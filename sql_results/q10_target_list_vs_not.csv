@@ -1,0 +1,3 @@
+target_group,cases,avg_titles_per_case,total_removed,total_titles,removal_rate_pct
+"On target list",3158,10.8581,13765,34290,40.14
+"Not on target list",2208,1.2654,492,2794,17.61
