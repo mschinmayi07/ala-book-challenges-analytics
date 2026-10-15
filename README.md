@@ -194,8 +194,8 @@ The cleaned tables are already in `data/clean/`, so step 3 alone gives you the d
 
 ```bash
 # 1. Get the code and install the libraries
-git clone <this repo>
-cd <repo folder>
+git clone https://github.com/mschinmayi07/ala-book-challenges-analytics.git
+cd ala-book-challenges-analytics
 pip install -r requirements.txt
 ```
 
