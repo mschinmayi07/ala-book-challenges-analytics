@@ -36,8 +36,6 @@ I used the dataset to explore four questions:
 | ALA challenge data, Titles table | One row per title. A cleaned version of it, enriched with Google Books, is the title dimension | `data/raw/combined_final_flagged.csv` |
 | Google Books API | Title details added to the ALA titles: page count, language, maturity rating, summary | columns of `combined_final_flagged.csv` |
 
-- [CONFIRM: ALA data sharing wording]
-- [CONFIRM: ALA source URL, exact table names and date accessed]
 - The MIT license covers the code only. The data remains subject to its owners' terms.
 - **The Google Books `summary` text is not published.** Every `summary` value in `data/raw/combined_final_flagged.csv` and `data/clean/dim_title.csv` is replaced with the existing placeholder `NOT_FOUND`. Nothing else in those files, and no script or schema, was changed, and the scripts produce the same tables (see [How to reproduce](#8-how-to-reproduce)). The Title Detail dashboard screenshot and the dashboard PDF still show the summary of one book.
 - 303 of 10,380 titles had no Google Books match (`NOT_FOUND`). 8,186 matched by ISBN and 1,891 by a title-and-author fuzzy match.
